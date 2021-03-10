@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[demo](https://wizardly-meitner-3edb8b.netlify.app/)
+
 ![class](./src/classcomp.png)
 ![func](./src/funccomp.png)
 
