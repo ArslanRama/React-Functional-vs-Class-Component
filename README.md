@@ -3,7 +3,7 @@
 [demo](https://wizardly-meitner-3edb8b.netlify.app/)
 
 ![class](./src/classcomp.png)
-![func](./src/funccomp.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
