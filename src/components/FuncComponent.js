@@ -8,14 +8,13 @@ export default function FuncComponent() {
     // state must have a type e.g const, let
     const initialData = {
         name: 'Aslan',
-        age: 36,
+        age: 200,
 
     }
     // const [stateName, functionToUpdateState] = useState(initial data)
     const [state, setState] = useState(initialData)
     const [users, setUsers] = useState([
-        {id:1, name:'Harry'},
-        {id:2, name:'Potter'}
+        
     ]);
 
     // Update Handler

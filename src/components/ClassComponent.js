@@ -9,7 +9,7 @@ class ClassComponent extends Component {
     // state to hold data
     state = {
         name: 'Aslan',
-        age: 36,
+        age: 100,
         users: []
     }
 
